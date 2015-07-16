@@ -1,0 +1,5 @@
+[submodule "art17-consultation"]
+	path = art17-consultation
+	url = https://github.com/eea/art17-consultation
+[submodule "eea.art17-consultation"]
+	branch = master
